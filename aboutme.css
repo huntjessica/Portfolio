@@ -1,0 +1,60 @@
+
+.name { margin-left: 5em;
+  margin-top: 1em;
+  font-family: 'Roboto', sans-serif;
+  color: #454545;  
+}
+
+
+.home-introduction{
+ background-image: url("trees.jpg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px;
+}
+.info {color: white;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+.container .name{ padding: 0px;
+}
+
+
+ul {
+  color: #454545;
+  text-align: left;
+  float: right; 
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  color: #454545;
+  font: bold 12px/18px sans-serif;
+  display: inline-block;
+  margin-right: -4px;
+  position: relative;
+  padding: 15px 20px;
+  background: #fff;
+ 
+}
+
+.skillset {
+font-family: 'Droid Sans', sans-serif;
+position: relative;
+background: #f3f3f3;
+padding-top: 50px;
+padding-bottom: 35px;
+margin-bottom: 62px;
+}
+
+.footer {
+  color: #454545;
+  font-family: 'Droid Sans', sans-serif;
+  color: black;
+  text-align: center;
+}
+.fontawesome{
+  color: #17CF91;
+}
